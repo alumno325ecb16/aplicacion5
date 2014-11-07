@@ -7,7 +7,7 @@
 
     <!-- versionCode is optional and Android only -->
 
-    <name>Colocar nombre a la aplicacion</name>
+    <name>Datos del dispositivo</name>
 
     <description>
         Aplicacion que muestra los datos del Dispositivo
@@ -16,7 +16,7 @@
     <preference name="phonegap-version" value="3.1.0" />
 	
     <author href="https://build.phonegap.com" email="support@phonegap.com">
-        Colocar tu nombre completo
+        Daniel Santos Salazar
     </author>
 	
         <gap:plugin name="org.apache.cordova.device" version="0.2.12" />
